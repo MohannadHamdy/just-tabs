@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the project
+
+It's a very basic one, just showcasing how you can create tabs and display content from only one tab all using react, this is basic and doesn't have complex functionality, fetching data for fun.
+
 ## Available Scripts
 
 In the project directory, you can run:
